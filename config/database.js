@@ -7,7 +7,7 @@ const pool = mysql.createPool({
     user: 'master',
     port: '3306',
     password: 'Rlarudals12!',
-    database: 'Carrot-serverDB2'
+    database: 'InstagramDB'
 });
 
 module.exports = {
